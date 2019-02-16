@@ -40,7 +40,6 @@ class App extends Component {
 
  //  .then(data => {
  //   console.log(data); <-- Log data here to find the fields you will need.
- //   this.setState({ starwarsChars: data.results });
  // })
 
 
