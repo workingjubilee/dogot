@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  /* padding: 0.5%; */
+}
+.Header {
+  color: gold;
+  text-shadow: 1px 1px 5px black;
+  font-size: 4rem;
+  margin-top: 1%;
+}
+* {
+  max-width: 100%;
+}
+html {
+  box-sizing:border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+button {
+  padding: 2rem;
+  min-width: 10rem;
+}
+/* write your parent styles in here for your App.js */
