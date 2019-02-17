@@ -1,6 +1,6 @@
 import React from 'react';
 import DogStar from './DogStar';
-import './StarWars.css';
+import './dog.css';
 
 const StarField = stars => {
   return (
